@@ -1,5 +1,5 @@
 .*
-!/.gitignore
+
 
 keys.tfvars
 /.terraform
