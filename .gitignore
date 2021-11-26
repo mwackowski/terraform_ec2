@@ -1,0 +1,7 @@
+.*
+!/.gitignore
+
+keys.tfvars
+/.terraform
+/terraform
+useful_cmds.txt
